@@ -1,0 +1,3 @@
+[submodule "msk"]
+	path = msk
+	url = https://github.com/ahmetwaly/cdk-msk.git
